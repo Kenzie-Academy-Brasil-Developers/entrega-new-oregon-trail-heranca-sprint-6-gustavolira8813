@@ -64,7 +64,7 @@ Then('a resposta deverá ser Não', function () {
 });
 
 Then('a resposta deverá ser Sim', function () {
-    assert.strictEqual(shouldQuarantine, true);
+    assert.strictEqual(shouldQuarantine, false);
 });
 
 Then('ele não deverá ser adicionada à lista de passageiros', function () {

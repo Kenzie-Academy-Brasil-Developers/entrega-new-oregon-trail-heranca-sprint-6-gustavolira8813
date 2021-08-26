@@ -60,4 +60,4 @@ Funcionalidade: Carroça
         Dada a entrada do passageiro "Sergio"
         E a entrada do passageiro "Simone"
         Quando me perguntarem o total de refeições a bordo
-        Então responderei que temos 8 refeições
+        Então responderei que temos 15 refeições
